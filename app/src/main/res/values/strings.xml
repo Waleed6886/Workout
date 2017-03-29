@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">"Workout "</string>
+    <string name="day_one">A</string>
+    <string name="day_two">B</string>
+    <string-array name="day1">
+        <item>Deadlift</item>
+        <item>Overhead</item>
+        <item>Squat</item>
+    </string-array>
+
+    <string-array name="day2">
+        <item>Barbell Row</item>
+        <item>Bench Press</item>
+        <item>Squat</item>
+    </string-array>
+</resources>

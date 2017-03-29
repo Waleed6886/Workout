@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Linear_layout"
+    tools:context="com.example.android.workout.MainActivity">
+    <Button
+        android:id="@+id/button1"
+        style="@style/app_style"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/day_one" />
+    <Button
+        android:id="@+id/button2"
+        style="@style/app_style"
+        android:background="@color/redDark"
+        android:text="@string/day_two" />
+</LinearLayout>
